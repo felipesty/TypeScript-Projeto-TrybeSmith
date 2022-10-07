@@ -1,16 +1,17 @@
-# 🚧 README em construção 🚧
+# Projeto TrybeSmith
+Mais um projeto utilizando o Node, mas dessa vez foi utilizando o typeScript para botar em prática o que foi aprendido nessa linguagem.
+Com isso foram preciso fazer os seguintes requisitos:
+   - POST /products
+   - GET /products
+   - POST /users
+   - GET /orders
 
-<!-- Olá, Tryber!
-
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+---
+## Tecnologias utilizadas
+ - Node
+ - Express
+ - TypeScript
+ - Arquitetura de Software
+    - Model
+    - Service
+    - Controller
